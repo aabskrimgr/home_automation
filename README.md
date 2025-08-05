@@ -185,10 +185,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
    - Run `flutter clean && flutter pub get`
    - Ensure all dependencies are properly installed
 
-## 📞 Support
-
-For support and questions, please open an issue on GitHub or contact [your-email@example.com]
-
----
-
 **Happy Automating! 🏡✨**
